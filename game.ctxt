@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=game
+comment1.params=
+comment1.target=rpsAI()
+comment10.params=playerMove\ AIMove
+comment10.target=int\ results(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ makeMove()
+comment3.params=newMove
+comment3.target=void\ update(java.lang.String)
+comment4.params=keyboard
+comment4.target=void\ saveData(java.util.Scanner)
+comment5.params=keyboard
+comment5.target=void\ loadData(java.util.Scanner)
+comment6.params=x\ y\ probability
+comment6.target=void\ setChain(int,\ int,\ float)
+comment7.params=x\ y
+comment7.target=void\ setTimesPlayed(int,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment9.params=keyboard\ opponent
+comment9.target=void\ play(java.util.Scanner,\ rpsAI)
+numComments=11
